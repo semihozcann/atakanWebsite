@@ -1,0 +1,23 @@
+
+
+/* .navbar-dark .navbar-nav .nav-link {
+    color: black;
+} */
+
+#header-carousel{
+    width: 98%;
+    margin: auto;
+}
+
+.carousel-inner{
+    object-fit: cover;
+}
+
+.carousel-caption {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(9, 30, 62, .7);
+    z-index: 1;
+}
